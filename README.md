@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Patil</h1>
-<h3 align="center">A passionate Data Scientist and AI/ML Enthusiast</h3>
+<h3 align="center">A passionate Data Scientist | AI/ML Enthusiast | Quant Seeker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik0224&label=Profile%20views&color=0e75b6&style=flat" alt="kartik0224" /> </p>
 
